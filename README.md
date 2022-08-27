@@ -8,6 +8,8 @@ I am a 5th-semester Informatics student. I am currently participating in the Stu
 
 ### Github Statistic
 ![RazinSyakib43's GitHub stats](https://github-readme-stats.vercel.app/api?username=razinsyakib43&show_icons=true&theme=radical)
+
+### Top Language
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=razinsyakib43&layout=compact)](https://github.com/razinsyakib43/github-readme-stats)
 
 ### Reach me on
