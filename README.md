@@ -13,3 +13,5 @@ I am a 5th-semester Informatics student. I am currently participating in the Stu
 
 ### Reach me on
 - <a href="https://twitter.com/iamzeen43">Twitter</a>
+- <a href="https://www.instagram.com/razinsyakib_">Instagram</a>
+- <a href="https://www.instagram.com/razinsyakib_">LinkedIn</a>
