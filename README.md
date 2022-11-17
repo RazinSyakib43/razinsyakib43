@@ -14,4 +14,4 @@ I am very passionate about Information Technology (IT) and web development. I am
 ### Reach me on
 - <a href="https://twitter.com/iamzeen43">Twitter</a>
 - <a href="https://www.instagram.com/razinsyakib_">Instagram</a>
-- <a href="https://www.instagram.com/razinsyakib_">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/muhammad-razin-syakib-765660224/">LinkedIn</a>
