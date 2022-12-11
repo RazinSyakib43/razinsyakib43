@@ -9,7 +9,7 @@ I am very passionate about Information Technology (IT) and web development. I am
 ### My Stats
 ![RazinSyakib43's GitHub stats](https://github-readme-stats.vercel.app/api?username=razinsyakib43&show_icons=true&theme=radical)
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=razinsyakib43&layout=compact)](https://github.com/razinsyakib43/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=razinsyakib43&layout=compact&langs_count=8&theme=algolia)](https://github.com/razinsyakib43/github-readme-stats)
 
 ### Reach me on
 - <a href="https://twitter.com/iamzeen43">Twitter</a>
