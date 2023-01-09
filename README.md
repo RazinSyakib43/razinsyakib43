@@ -2,9 +2,11 @@
 
 My name is Muhammad Razin Syakib
 
-I am a 5th semester student majoring in Informatics major
+I'm a fifth-semester Informatics student, I have a strong interest in and dedication to the field of Information Technology. My passion for programming has allowed me to acquire proficient skills in website development. 
 
-I am very passionate about Information Technology (IT) and web development. I am a skilled programmer in designing a website. With an intense curiosity, I want to learn something new to improve my skills in IT and programming. And I have a goal to innovate and make some technology work effortlessly for people everywhere, technology that can’t be beaten.
+I am constantly looking to expand my knowledge and improve my capabilities in IT and programming through ongoing learning and exploration. 
+
+My ultimate goal is to develop technology that can make a positive impact on people's lives and improve their experiences with technology on a daily basis.
 
 ### My Stats
 ![RazinSyakib43's GitHub stats](https://github-readme-stats.vercel.app/api?username=razinsyakib43&show_icons=true&theme=radical)
