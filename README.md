@@ -13,6 +13,8 @@ My ultimate goal is to develop technology that can make a positive impact on peo
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=razinsyakib43&layout=compact&langs_count=8&theme=algolia)](https://github.com/razinsyakib43/github-readme-stats)
 
+![My Streak and Contributor](https://github-readme-streak-stats.herokuapp.com/?user=razinsyakib43&theme=react&border=61dafb&hide_border=true)
+
 ### 🤝🏻 Connect with Me!
 [![Email: muhammadrazin14@gmail.com](https://img.shields.io/badge/-muhammadrazin14@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:muhammadrazin14@gmail.com)
 [![LinkedIn: Muhammad Razin Syakib](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-razin-syakib/)]([https://www.linkedin.com/in/farkhanmaul/](https://www.linkedin.com/in/muhammad-razin-syakib/))&nbsp;
