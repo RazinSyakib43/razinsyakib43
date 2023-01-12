@@ -17,3 +17,10 @@ My ultimate goal is to develop technology that can make a positive impact on peo
 - <a href="https://twitter.com/iamzeen43">Twitter</a>
 - <a href="https://www.instagram.com/razinsyakib_">Instagram</a>
 - <a href="https://www.linkedin.com/in/muhammad-razin-syakib-765660224/">LinkedIn</a>
+
+### 🤝🏻 Connect with Me!
+[![Email: muhammadrazin14@gmail.com](https://img.shields.io/badge/-muhammadrazin14@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:muhammadrazin14@gmail.com)
+[![LinkedIn: Muhammad Razin Syakib](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-razin-syakib/)]([https://www.linkedin.com/in/farkhanmaul/](https://www.linkedin.com/in/muhammad-razin-syakib/))&nbsp;
+[![Instagram: Follow razinsyakib_](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/razinsyakib_/)&nbsp;
+[![Twitter: Follow @iamzeen43](https://img.shields.io/twitter/follow/farkhanmaul?style=social)](https://twitter.com/iamzeen43)
+---
