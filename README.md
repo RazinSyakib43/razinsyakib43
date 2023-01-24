@@ -2,10 +2,8 @@
 
 My name is Muhammad Razin Syakib
 
-I'm a fifth-semester Informatics student, I have a strong interest in and dedication to the field of Information Technology. My passion for programming has allowed me to acquire proficient skills in website development. 
-
-I am constantly looking to expand my knowledge and improve my capabilities in IT and programming through ongoing learning and exploration. 
-
+I am a fifth-semester Informatics student, I possess a strong interest in and dedication to the field of Information Technology. I am passionate for Web Programming and interested in Cloud Computing. 
+I am constantly seeking opportunities to expand my knowledge and improve my skills in IT and programming through continuous learning and exploration.
 My ultimate goal is to develop technology that can make a positive impact on people's lives and improve their experiences with technology on a daily basis.
 
 <h3 align="left">Languages and Tools:</h3>
