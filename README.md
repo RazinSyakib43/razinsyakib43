@@ -9,7 +9,6 @@ Through my studies and personal projects, I constantly expand my knowledge and h
 ### My Stats ⚡
 ![Github stats](https://github-readme-stats.vercel.app/api?username=razinsyakib43&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razinsyakib43&layout=compact&theme=blueberry&count_private=true&hide_border=true)
-![My Streak and Contributor](https://github-readme-streak-stats.herokuapp.com/?user=razinsyakib43&theme=react&border=61dafb&hide_border=true)
 
 ### Connect with Me! 🫱🏻‍🫲🏼
 [![Email: muhammadrazin14@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazin14@gmail.com)&nbsp;
