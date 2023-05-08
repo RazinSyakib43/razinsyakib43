@@ -1,7 +1,7 @@
 # Hey There! 👋
 
-**I'm Muhammad Razin Syakib** - I am a sixth-semester Informatics student driven by a deep sense of purpose in Information Technology. I view technology as a tool for empowering people and improving lives, and my passion for Web Dev, Back-End, and Cloud Computing fuels my drive to innovate.
-Through my studies and personal projects, I constantly expand my knowledge and hone my skills, striving for excellence in all I do. My ultimate goal is to leverage my expertise to make a positive impact on the world by developing solutions that transform lives.
+**I'm Muhammad Razin Syakib** - I am a sixth-semester Informatics student driven by a deep sense of purpose in Information Technology. I view technology as a tool for empowering people and improving lives, and my passion for Web Dev, Back-End, and Cloud Computing fuels my drive to innovate. 💻
+Through my studies and personal projects, I constantly expand my knowledge and hone my skills, striving for excellence in all I do. My ultimate goal is to leverage my expertise to make a positive impact on the world by developing solutions that transform lives. 🌱
 
 ### My Skills 🔥
 [![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,gcp,firebase,tailwind,figma,git,discord)](https://skillicons.dev)
