@@ -17,7 +17,3 @@ Through my studies and personal projects, I constantly expand my knowledge and h
 [![Twitter: @iamzeen43](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamzeen43)&nbsp;
 [![Instagram: @razinsyakib_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/razinsyakib_/)&nbsp;
 ---
-
-### 🎧 Spotify Playing 
-
-[<img src="https://sins-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC?si=1cadd0a8569a45b3)
