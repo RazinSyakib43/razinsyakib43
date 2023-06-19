@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, Laravel, & Google Cloud Platform**
 
-- 👨‍💻 All of my projects are available at <a href="https://muhammad-razin-syakib.netlify.app/" target="blank">[https://muhammad-razin-syakib.netlify.app/]</a>
+- 👨‍💻 All of my projects are available at <a href="https://muhammad-razin-syakib.netlify.app/" target="blank">https://muhammad-razin-syakib.netlify.app</a>
 
-- 📫 How to reach me **muhammadrazin14@Gmail.com**
+- 📫 How to reach me **muhammadrazin14@gmail.com**
 
 ### My Bio 📄
 I'm a **sixth-semester Informatics student** driven by a deep sense of purpose in Information Technology. I view technology as a tool for empowering people and improving lives, and my passion for **Web Dev**, **Back-End**, and **Cloud Computing** fuels my drive to innovate. 💻
