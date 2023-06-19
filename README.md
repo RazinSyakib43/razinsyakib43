@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, Laravel, & Google Cloud Platform**
 
-- 👨‍💻 All of my projects are available at <a href="https://muhammad-razin-syakib.netlify.app/" target="blank">https://muhammad-razin-syakib.netlify.app</a>
+- 👨‍💻 All of my projects are available at [https://muhammad-razin-syakib.netlify.app](https://muhammad-razin-syakib.netlify.app/)
 
 - 📫 How to reach me **muhammadrazin14@gmail.com**
 
