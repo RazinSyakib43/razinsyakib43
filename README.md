@@ -2,9 +2,9 @@
 
 - 🤓 I'm **Muhammad Razin Syakib**
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, Laravel, & Google CLoud Platform**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, Laravel, & Google Cloud Platform**
 
-- 👨‍💻 All of my projects are available at [https://muhammad-razin-syakib.netlify.app/](https://muhammad-razin-syakib.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="[https://twitter.com/maulanafikri455](https://muhammad-razin-syakib.netlify.app/)" target="blank">[https://muhammad-razin-syakib.netlify.app/]</a>
 
 - 📫 How to reach me **muhammadrazin14@Gmail.com**
 
