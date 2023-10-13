@@ -1,17 +1,13 @@
 # Hey There! 👋
-<div>
-  <div style="float: left; width: 50%;">
-    <ul>
-      <li>🤓 I'm <strong>Muhammad Razin Syakib</strong></li>
-      <li>🌱 I’m currently learning <strong>NodeJS, ExpressJS, Laravel, & Google Cloud Platform</strong></li>
-      <li>👨‍💻 All of my projects are available at <a href="https://muhammad-razin-syakib.netlify.app" target="_blank">muhammad-razin-syakib.netlify.app</a></li>
-      <li>📫 How to reach me <strong>muhammadrazin14@gmail.com</strong></li>
-    </ul>
-  </div>
-  <div style="float: right; width: 50%;">
-    <img alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-  </div>
-</div>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+- 🤓 I'm **Muhammad Razin Syakib**
+
+- 🌱 I’m currently learning **NodeJS, ExpressJS, Laravel, & Google Cloud Platform**
+
+- 👨‍💻 All of my projects are available at [https://muhammad-razin-syakib.netlify.app](https://muhammad-razin-syakib.netlify.app/)
+
+- 📫 How to reach me **muhammadrazin14@gmail.com**
 
 ### My Bio 📄
 I'm a **sixth-semester Informatics student** driven by a deep sense of purpose in Information Technology. I view technology as a tool for empowering people and improving lives, and my passion for **Web Dev**, **Back-End**, and **Cloud Computing** fuels my drive to innovate. 💻
