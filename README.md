@@ -1,6 +1,4 @@
 # Hey There! 👋
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 - 🤓 I'm **Muhammad Razin Syakib**
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, Laravel, & Google Cloud Platform**
@@ -10,7 +8,7 @@
 - 📫 How to reach me **muhammadrazin14@gmail.com**
 
 ### My Bio 📄
-I'm a **sixth-semester Informatics student** driven by a deep sense of purpose in Information Technology. I view technology as a tool for empowering people and improving lives, and my passion for **Web Dev**, **Back-End**, and **Cloud Computing** fuels my drive to innovate. 💻
+I'm a **seventh-semester Informatics student** driven by a deep sense of purpose in Information Technology. I view technology as a tool for empowering people and improving lives, and my passion for **Web Dev**, **Back-End**, and **Cloud Computing** fuels my drive to innovate. 💻
 Through my studies and personal projects, I constantly expand my knowledge and hone my skills, striving for excellence in all I do. My ultimate goal is to leverage my expertise to make a positive impact on the world by developing solutions that transform lives. 🌱
 
 ### My Skills 🔥
