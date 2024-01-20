@@ -12,7 +12,7 @@ I'm a **seventh-semester Informatics student** driven by a deep sense of purpose
 Through my studies and personal projects, I constantly expand my knowledge and hone my skills, striving for excellence in all I do. My ultimate goal is to leverage my expertise to make a positive impact on the world by developing solutions that transform lives. 🌱
 
 ### My Skills 🔥
-[![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,nodejs,express,html,css,php,gcp,firebase,mysql,mongodb,tailwind,bootstrap,figma,git)](https://skillicons.dev)
+[![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,nodejs,express,PHP,html,css,gcp,firebase,mysql,mongodb,tailwind,bootstrap,figma,git)](https://skillicons.dev)
 
 ### My Stats ⚡
 ![Github stats](https://github-readme-stats.vercel.app/api?username=razinsyakib43&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
