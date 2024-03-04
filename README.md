@@ -8,8 +8,9 @@
 - 📫 How to reach me **muhammadrazin14@gmail.com**
 
 ### My Bio 📄
-I'm a **seventh-semester Informatics student** driven by a deep sense of purpose in Information Technology. I view technology as a tool for empowering people and improving lives, and my passion for **Web Dev**, **Back-End**, and **Cloud Computing** fuels my drive to innovate. 💻
-Through my studies and personal projects, I constantly expand my knowledge and hone my skills, striving for excellence in all I do. My ultimate goal is to leverage my expertise to make a positive impact on the world by developing solutions that transform lives. 🌱
+Final year Informatics student passionate about software and website development. Have internship experience as a Back-end developer at Fishku Indonesia with expertise in building and managing web, RESTful API, and backend systems. Proficient in JavaScript, TypeScript, Express, Node.js, MySQL, and Google Cloud Platform. Strong teamwork and communication skills with a commitment to continuous learning. Eager to contribute to innovative technology projects and organizations. 💻🌱
+
+Web Developer | Back-End Engineer | Software Engineer | Cloud Engineer
 
 ### My Skills 🔥
 [![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,nodejs,express,php,html,css,gcp,firebase,mysql,mongodb,tailwind,bootstrap,figma,git)](https://skillicons.dev)
