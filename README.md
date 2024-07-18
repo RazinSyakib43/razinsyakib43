@@ -13,7 +13,7 @@ Final year Informatics student passionate about software and website development
 Web Developer | Back-End Engineer | Software Engineer | Cloud Engineer
 
 ### My Skills 🔥
-[![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,nodejs,express,php,html,css,gcp,firebase,mysql,mongodb,tailwind,bootstrap,figma,git)](https://skillicons.dev)
+[![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,gcp,firebase,mysql,mongodb,tailwind,bootstrap,figma,git)](https://skillicons.dev)
 
 ### My Stats ⚡
 ![Github stats](https://github-readme-stats.vercel.app/api?username=razinsyakib43&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
