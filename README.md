@@ -17,7 +17,7 @@ Web Developer | Back-End Engineer | Software Engineer | Cloud Engineer
 
 ### My Stats ⚡
 ![Github stats](https://github-readme-stats.vercel.app/api?username=razinsyakib43&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazinSyakib43&hide=php,html,css,hack,java,c%2B%2B,ruby&layout=compact&theme=blueberry&count_private=true&hide_border=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazinSyakib43&hide=php,html,css,hack,java,c%2B%2B,Objective%2DC,ruby&layout=compact&theme=blueberry&count_private=true&hide_border=true) 
 
 ### Connect with Me! 🫱🏻‍🫲🏼
 [![Email: muhammadrazin14@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazin14@gmail.com)&nbsp;
