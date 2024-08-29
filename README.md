@@ -8,12 +8,12 @@
 - 📫 How to reach me **muhammadrazin14@gmail.com**
 
 ### My Bio 📄
-Final year Informatics student passionate about software and website development. Have internship experience as a Back-end developer at Fishku Indonesia with expertise in building and managing web, RESTful API, and backend systems. Proficient in JavaScript, TypeScript, Express, Node.js, MySQL, and Google Cloud Platform. Strong teamwork and communication skills with a commitment to continuous learning. Eager to contribute to innovative technology projects and organizations. 💻🌱
+In my final year, I am an informatics student passionate about software and website development. I have internship experience as a back-end developer at Fishku Indonesia, where I have expertise in building and managing web, RESTful API, and backend systems. Proficient in JavaScript, TypeScript, Express, Node.js, MySQL, and Google Cloud Platform. Strong teamwork and communication skills with a commitment to continuous learning. Eager to contribute to innovative technology projects and organizations. 💻🌱
 
 Web Developer | Back-End Engineer | Software Engineer | Cloud Engineer
 
 ### My Skills 🔥
-[![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,gcp,firebase,mysql,mongodb,tailwind,bootstrap,figma,git)](https://skillicons.dev)
+[![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,bootstrap,mysql,mongodb,gcp,firebase,figma,git)](https://skillicons.dev)
 
 ### My Stats ⚡
 ![Github stats](https://github-readme-stats.vercel.app/api?username=razinsyakib43&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
