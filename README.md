@@ -1,14 +1,14 @@
 # Hey There! 👋
 - 🤓 I'm **Muhammad Razin Syakib**
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, Laravel, & Google Cloud Platform**
+- 🌱 I’m currently learning **Back-End Development and Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://muhammad-razin-syakib.netlify.app](https://muhammad-razin-syakib.netlify.app/) 
+- 👨‍💻 All of my projects are available at [https://razinsyakib.my.id/](https://razinsyakib.my.id/) 
 
 - 📫 How to reach me **muhammadrazin14@gmail.com**
 
 ### My Bio 📄
-In my final year, I am an informatics student passionate about software and website development. I have internship experience as a back-end developer at Fishku Indonesia, where I have expertise in building and managing web, RESTful API, and backend systems. Proficient in JavaScript, TypeScript, Express, Node.js, MySQL, and Google Cloud Platform. Strong teamwork and communication skills with a commitment to continuous learning. Eager to contribute to innovative technology projects and organizations. 💻🌱
+In my final year, I am an informatics student passionate about software and website development. I have internship experience as a back-end developer at Fishku Indonesia, where I have expertise in building and managing web, RESTful API, and backend systems. Proficient in JavaScript, TypeScript, Express, Node.js, SQL, and Google Cloud Platform. Strong teamwork and communication skills with a commitment to continuous learning. Eager to contribute to innovative technology projects and organizations. 💻🌱
 
 Web Developer | Back-End Engineer | Software Engineer | Cloud Engineer
 
