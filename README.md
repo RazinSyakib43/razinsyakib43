@@ -13,7 +13,7 @@ In my final year, I am an informatics student passionate about software and webs
 Web Developer | Back-End Engineer | Software Engineer | Cloud Engineer
 
 ### My Skills 🔥
-[![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,redis,supabase,sequelize,firebase,postman,linux,ubuntu,docker,gcp,astro,react,tailwind,git)](https://skillicons.dev)
+[![RazinSyakib43's Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,postgres,redis,supabase,sequelize,firebase,postman,linux,ubuntu,docker,gcp,astro,react,tailwind,git)](https://skillicons.dev)
 
 ### My Stats ⚡
 ![Github stats](https://github-readme-stats.vercel.app/api?username=razinsyakib43&theme=blueberry&count_private=true&hide_border=true&line_height=20) 
@@ -23,6 +23,5 @@ Web Developer | Back-End Engineer | Software Engineer | Cloud Engineer
 [![Email: muhammadrazin14@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazin14@gmail.com)&nbsp;
 [![LinkedIn: Muhammad Razin Syakib](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-razin-syakib/)&nbsp;
 [![Discord: Zeen#5482](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/706507324642295809)&nbsp;
-[![Twitter: @razinsyakib_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/razinsyakib_)&nbsp;
 [![Instagram: @razinsyakib_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/razinsyakib_/)&nbsp;
 ---
